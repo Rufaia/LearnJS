@@ -1,2 +1,2 @@
 # LearnJS
-Writing my fist helloe world program in JS
+Writing my first hello world program in JS
